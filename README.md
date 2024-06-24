@@ -2,6 +2,8 @@
 
 ![独立开发者工具收录指南](./submission-guide.jpeg)
 
+本仓库是 [Indie Hacker Tools](https://indiehackertools.net/) 的投稿入口，欢迎推荐或自荐文章/工具/资源，请[提交 issue](https://github.com/aidevtoolkit/indie-hacker-tools/issues)。
+
 ## 收录标准
 我们致力于收集对独立开发者有实际价值的工具和资源。为确保质量，我设立了以下标准：
 
