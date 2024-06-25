@@ -1,6 +1,6 @@
 # 独立开发者出海工具箱收录指南
 
-本仓库是 [Indie Hacker Tools](https://indiehackertools.net/) 的投稿入口，欢迎推荐或自荐文章/工具/资源，请[提交 issue](https://github.com/aidevtoolkit/indie-hacker-tools/issues)。
+本仓库是 [Indie Hacker Tools](https://indiehackertools.net/) 的投稿入口，欢迎推荐或自荐文章/工具/资源，或反馈对网站建设意见，请[提交 issue](https://github.com/aidevtoolkit/indie-hacker-tools/issues)。
 
 ![独立开发者工具收录指南](./submission-guide.jpeg)
 
